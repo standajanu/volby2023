@@ -1,1 +1,177 @@
-
+[
+    {
+        "kandidat": "pavel",
+        "typ": "produkce",
+        "castka": 2067601
+    },
+    {
+        "kandidat": "pavel",
+        "typ": "billboardy",
+        "castka": 5968444
+    },
+    {
+        "kandidat": "pavel",
+        "typ": "administrativa",
+        "castka": 183084
+    },
+    {
+        "kandidat": "pavel",
+        "typ": "soc",
+        "castka": 1644991
+    },
+    {
+        "kandidat": "pavel",
+        "typ": "pr",
+        "castka": 4879099
+    },
+    {
+        "kandidat": "pavel",
+        "typ": "podpisy",
+        "castka": 1317238
+    },
+    {
+        "kandidat": "pavel",
+        "typ": "ostatni",
+        "castka": 669733
+    },
+    {
+        "kandidat": "nerudova",
+        "typ": "produkce",
+        "castka": 1535059.49
+    },
+    {
+        "kandidat": "nerudova",
+        "typ": "billboardy",
+        "castka": 91723.39
+    },
+    {
+        "kandidat": "nerudova",
+        "typ": "administrativa",
+        "castka": 414934.87
+    },
+    {
+        "kandidat": "nerudova",
+        "typ": "soc",
+        "castka": 744693.36
+    },
+    {
+        "kandidat": "nerudova",
+        "typ": "pr",
+        "castka": 891918.88
+    },
+    {
+        "kandidat": "nerudova",
+        "typ": "podpisy",
+        "castka": 297070
+    },
+    {
+        "kandidat": "nerudova",
+        "typ": "ostatni",
+        "castka": 11209
+    },
+    {
+        "kandidat": "hilser",
+        "typ": "produkce",
+        "castka": 172581
+    },
+    {
+        "kandidat": "hilser",
+        "typ": "billboardy",
+        "castka": 156532
+    },
+    {
+        "kandidat": "hilser",
+        "typ": "administrativa",
+        "castka": 37583
+    },
+    {
+        "kandidat": "hilser",
+        "typ": "soc",
+        "castka": 129700
+    },
+    {
+        "kandidat": "hilser",
+        "typ": "pr",
+        "castka": 127742
+    },
+    {
+        "kandidat": "hilser",
+        "typ": "podpisy",
+        "castka": 0
+    },
+    {
+        "kandidat": "hilser",
+        "typ": "ostatni",
+        "castka": 20700
+    },
+    {
+        "kandidat": "stredula",
+        "typ": "produkce",
+        "castka": 0
+    },
+    {
+        "kandidat": "stredula",
+        "typ": "billboardy",
+        "castka": 556331
+    },
+    {
+        "kandidat": "stredula",
+        "typ": "administrativa",
+        "castka": 0
+    },
+    {
+        "kandidat": "stredula",
+        "typ": "soc",
+        "castka": 175601
+    },
+    {
+        "kandidat": "stredula",
+        "typ": "pr",
+        "castka": 0
+    },
+    {
+        "kandidat": "stredula",
+        "typ": "podpisy",
+        "castka": 0
+    },
+    {
+        "kandidat": "stredula",
+        "typ": "ostatni",
+        "castka": 0
+    },
+    {
+        "kandidat": "fischer",
+        "typ": "produkce",
+        "castka": 0
+    },
+    {
+        "kandidat": "fischer",
+        "typ": "billboardy",
+        "castka": 0
+    },
+    {
+        "kandidat": "fischer",
+        "typ": "administrativa",
+        "castka": 0
+    },
+    {
+        "kandidat": "fischer",
+        "typ": "soc",
+        "castka": 749.76
+    },
+    {
+        "kandidat": "fischer",
+        "typ": "pr",
+        "castka": 0
+    },
+    {
+        "kandidat": "fischer",
+        "typ": "podpisy",
+        "castka": 0
+    },
+    {
+        "kandidat": "fischer",
+        "typ": "ostatni",
+        "castka": 0
+    }
+]
