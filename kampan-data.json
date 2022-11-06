@@ -2,12 +2,12 @@
     {
         "kandidat": "Petr Pavel",
         "typ": "produkce",
-        "castka": 2067601
+        "castka": 2540878
     },
     {
         "kandidat": "Petr Pavel",
         "typ": "billboardy",
-        "castka": 8199639
+        "castka": 8225291
     },
     {
         "kandidat": "Petr Pavel",
@@ -17,12 +17,12 @@
     {
         "kandidat": "Petr Pavel",
         "typ": "soc",
-        "castka": 1669191
+        "castka": 1746670
     },
     {
         "kandidat": "Petr Pavel",
         "typ": "pr",
-        "castka": 4879099
+        "castka": 4887761
     },
     {
         "kandidat": "Petr Pavel",
@@ -32,7 +32,7 @@
     {
         "kandidat": "Petr Pavel",
         "typ": "ostatni",
-        "castka": 669733
+        "castka": 678203
     },
     {
         "kandidat": "Danuše Nerudová",
@@ -57,7 +57,7 @@
     {
         "kandidat": "Danuše Nerudová",
         "typ": "pr",
-        "castka": 904860.72
+        "castka": 904860.8799999999
     },
     {
         "kandidat": "Danuše Nerudová",
@@ -87,7 +87,7 @@
     {
         "kandidat": "Marek Hilšer",
         "typ": "soc",
-        "castka": 129700
+        "castka": 130700
     },
     {
         "kandidat": "Marek Hilšer",
@@ -142,12 +142,12 @@
     {
         "kandidat": "Pavel Fischer",
         "typ": "produkce",
-        "castka": 0
+        "castka": 17614
     },
     {
         "kandidat": "Pavel Fischer",
         "typ": "billboardy",
-        "castka": 0
+        "castka": 12812
     },
     {
         "kandidat": "Pavel Fischer",
@@ -172,6 +172,6 @@
     {
         "kandidat": "Pavel Fischer",
         "typ": "ostatni",
-        "castka": 0
+        "castka": 137600
     }
 ]
