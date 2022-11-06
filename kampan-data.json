@@ -2,12 +2,12 @@
     {
         "kandidat": "Petr Pavel",
         "typ": "produkce",
-        "castka": 2540878
+        "castka": 1555442
     },
     {
         "kandidat": "Petr Pavel",
         "typ": "billboardy",
-        "castka": 8225291
+        "castka": 8233610
     },
     {
         "kandidat": "Petr Pavel",
@@ -17,12 +17,12 @@
     {
         "kandidat": "Petr Pavel",
         "typ": "soc",
-        "castka": 1746670
+        "castka": 1738351
     },
     {
         "kandidat": "Petr Pavel",
         "typ": "pr",
-        "castka": 4887761
+        "castka": 4882761
     },
     {
         "kandidat": "Petr Pavel",
@@ -32,12 +32,17 @@
     {
         "kandidat": "Petr Pavel",
         "typ": "ostatni",
-        "castka": 678203
+        "castka": 712559
+    },
+    {
+        "kandidat": "Petr Pavel",
+        "typ": "fotovideo",
+        "castka": 956080
     },
     {
         "kandidat": "Danuše Nerudová",
         "typ": "produkce",
-        "castka": 1577308
+        "castka": 1568711
     },
     {
         "kandidat": "Danuše Nerudová",
@@ -47,17 +52,17 @@
     {
         "kandidat": "Danuše Nerudová",
         "typ": "administrativa",
-        "castka": 414932
+        "castka": 413653
     },
     {
         "kandidat": "Danuše Nerudová",
         "typ": "soc",
-        "castka": 744693
+        "castka": 724193
     },
     {
         "kandidat": "Danuše Nerudová",
         "typ": "pr",
-        "castka": 904854
+        "castka": 784994
     },
     {
         "kandidat": "Danuše Nerudová",
@@ -67,12 +72,17 @@
     {
         "kandidat": "Danuše Nerudová",
         "typ": "ostatni",
-        "castka": 11209
+        "castka": 21085
+    },
+    {
+        "kandidat": "Danuše Nerudová",
+        "typ": "fotovideo",
+        "castka": 138860
     },
     {
         "kandidat": "Marek Hilšer",
         "typ": "produkce",
-        "castka": 172581
+        "castka": 141381
     },
     {
         "kandidat": "Marek Hilšer",
@@ -103,6 +113,11 @@
         "kandidat": "Marek Hilšer",
         "typ": "ostatni",
         "castka": 20700
+    },
+    {
+        "kandidat": "Marek Hilšer",
+        "typ": "fotovideo",
+        "castka": 31200
     },
     {
         "kandidat": "Josef Středula",
@@ -140,6 +155,11 @@
         "castka": 0
     },
     {
+        "kandidat": "Josef Středula",
+        "typ": "fotovideo",
+        "castka": 0
+    },
+    {
         "kandidat": "Pavel Fischer",
         "typ": "produkce",
         "castka": 17614
@@ -173,5 +193,10 @@
         "kandidat": "Pavel Fischer",
         "typ": "ostatni",
         "castka": 137600
+    },
+    {
+        "kandidat": "Pavel Fischer",
+        "typ": "fotovideo",
+        "castka": 0
     }
 ]
