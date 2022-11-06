@@ -1,5 +1,15 @@
 [
     {
+        "produkce": "Jízdné, logistika, catering, provoz…",
+        "billboardy": "Bannery, letáky, polepy, merch",
+        "administrativa": "Administrativní provoz",
+        "soc": "Poplatky za reklamy i správa",
+        "pr": "Web, mailing, webová reklama",
+        "podpisy": "Náklady na dobrovolníky",
+        "ostatni": "Nezařaditelné nebo neidentifikované výdaje",
+        "fotovideo": "Fotografie, tvorba videí a grafiky"
+    },
+    {
         "kandidat": "Petr Pavel",
         "typ": "produkce",
         "castka": 1555442
