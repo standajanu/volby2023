@@ -12,12 +12,12 @@
     {
         "kandidat": "petr-pavel",
         "typ": "produkce",
-        "castka": 1555442
+        "castka": 2293599
     },
     {
         "kandidat": "petr-pavel",
         "typ": "billboardy",
-        "castka": 8233610
+        "castka": 8234410
     },
     {
         "kandidat": "petr-pavel",
@@ -27,7 +27,7 @@
     {
         "kandidat": "petr-pavel",
         "typ": "soc",
-        "castka": 1738351
+        "castka": 1762551
     },
     {
         "kandidat": "petr-pavel",
@@ -47,12 +47,12 @@
     {
         "kandidat": "petr-pavel",
         "typ": "fotovideo",
-        "castka": 956080
+        "castka": 1022630
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "produkce",
-        "castka": 1568711
+        "castka": 1750623
     },
     {
         "kandidat": "danuse-nerudova",
@@ -62,12 +62,12 @@
     {
         "kandidat": "danuse-nerudova",
         "typ": "administrativa",
-        "castka": 413653
+        "castka": 417093
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "soc",
-        "castka": 724193
+        "castka": 800061
     },
     {
         "kandidat": "danuse-nerudova",
@@ -77,22 +77,22 @@
     {
         "kandidat": "danuse-nerudova",
         "typ": "podpisy",
-        "castka": 325270
+        "castka": 533880
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "ostatni",
-        "castka": 21085
+        "castka": 35505
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "fotovideo",
-        "castka": 138860
+        "castka": 181860
     },
     {
         "kandidat": "marek-hilser",
         "typ": "produkce",
-        "castka": 141381
+        "castka": 214281
     },
     {
         "kandidat": "marek-hilser",
@@ -107,7 +107,7 @@
     {
         "kandidat": "marek-hilser",
         "typ": "soc",
-        "castka": 130700
+        "castka": 171700
     },
     {
         "kandidat": "marek-hilser",
@@ -152,7 +152,7 @@
     {
         "kandidat": "josef-stredula",
         "typ": "pr",
-        "castka": 0
+        "castka": 100000
     },
     {
         "kandidat": "josef-stredula",
@@ -187,7 +187,7 @@
     {
         "kandidat": "pavel-fischer",
         "typ": "soc",
-        "castka": 749.76
+        "castka": 999.76
     },
     {
         "kandidat": "pavel-fischer",
@@ -202,11 +202,131 @@
     {
         "kandidat": "pavel-fischer",
         "typ": "ostatni",
-        "castka": 137600
+        "castka": 162728
     },
     {
         "kandidat": "pavel-fischer",
         "typ": "fotovideo",
         "castka": 0
+    },
+    {
+        "kandidat": "karel-divis",
+        "typ": "produkce",
+        "castka": 0
+    },
+    {
+        "kandidat": "karel-divis",
+        "typ": "billboardy",
+        "castka": 95000
+    },
+    {
+        "kandidat": "karel-divis",
+        "typ": "administrativa",
+        "castka": 0
+    },
+    {
+        "kandidat": "karel-divis",
+        "typ": "soc",
+        "castka": 0
+    },
+    {
+        "kandidat": "karel-divis",
+        "typ": "pr",
+        "castka": 219170
+    },
+    {
+        "kandidat": "karel-divis",
+        "typ": "podpisy",
+        "castka": 1292062
+    },
+    {
+        "kandidat": "karel-divis",
+        "typ": "ostatni",
+        "castka": 0
+    },
+    {
+        "kandidat": "karel-divis",
+        "typ": "fotovideo",
+        "castka": 0
+    },
+    {
+        "kandidat": "tomas-zima",
+        "typ": "produkce",
+        "castka": 0
+    },
+    {
+        "kandidat": "tomas-zima",
+        "typ": "billboardy",
+        "castka": 0
+    },
+    {
+        "kandidat": "tomas-zima",
+        "typ": "administrativa",
+        "castka": 0
+    },
+    {
+        "kandidat": "tomas-zima",
+        "typ": "soc",
+        "castka": 424000
+    },
+    {
+        "kandidat": "tomas-zima",
+        "typ": "pr",
+        "castka": 652216
+    },
+    {
+        "kandidat": "tomas-zima",
+        "typ": "podpisy",
+        "castka": 183837
+    },
+    {
+        "kandidat": "tomas-zima",
+        "typ": "ostatni",
+        "castka": 243439
+    },
+    {
+        "kandidat": "tomas-zima",
+        "typ": "fotovideo",
+        "castka": 0
+    },
+    {
+        "kandidat": "jaroslav-basta",
+        "typ": "produkce",
+        "castka": 1200
+    },
+    {
+        "kandidat": "jaroslav-basta",
+        "typ": "billboardy",
+        "castka": 3723589
+    },
+    {
+        "kandidat": "jaroslav-basta",
+        "typ": "administrativa",
+        "castka": 0
+    },
+    {
+        "kandidat": "jaroslav-basta",
+        "typ": "soc",
+        "castka": 0
+    },
+    {
+        "kandidat": "jaroslav-basta",
+        "typ": "pr",
+        "castka": 26305
+    },
+    {
+        "kandidat": "jaroslav-basta",
+        "typ": "podpisy",
+        "castka": 0
+    },
+    {
+        "kandidat": "jaroslav-basta",
+        "typ": "ostatni",
+        "castka": 0
+    },
+    {
+        "kandidat": "jaroslav-basta",
+        "typ": "fotovideo",
+        "castka": 44421
     }
 ]
