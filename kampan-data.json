@@ -1,13 +1,13 @@
 [
     {
-        "produkce": "Jízdné, logistika, catering, provoz…",
-        "billboardy": "Bannery, letáky, polepy, merch",
-        "administrativa": "Administrativní provoz",
-        "soc": "Poplatky za reklamy i správa",
-        "pr": "Web, mailing, webová reklama",
-        "podpisy": "Náklady na dobrovolníky",
-        "ostatni": "Nezařaditelné nebo neidentifikované výdaje",
-        "fotovideo": "Fotografie, tvorba videí a grafiky"
+        "produkce": "Produkce: Jízdné, logistika, catering, provoz…",
+        "billboardy": "Billboardy: Bannery, letáky, polepy, merch",
+        "administrativa": "Administrativa: Administrativní provoz",
+        "soc": "Sociální sítě: Poplatky za reklamy i správa",
+        "pr": "PR: Web, mailing, webová reklama",
+        "podpisy": "Podpisy: Náklady na dobrovolníky a koordinaci",
+        "ostatni": "Ostatní: Nezařaditelné nebo neidentifikované výdaje",
+        "fotovideo": "Foto-video: Fotografie, tvorba videí a grafiky"
     },
     {
         "kandidat": "petr-pavel",
