@@ -1,18 +1,8 @@
 [
     {
-        "produkce": "Produkce: Jízdné, logistika, catering, provoz…",
-        "billboardy": "Billboardy: Bannery, letáky, polepy, merch",
-        "administrativa": "Administrativa: Administrativní provoz",
-        "soc": "Sociální sítě: Poplatky za reklamy i správa",
-        "pr": "PR: Web, mailing, webová reklama",
-        "podpisy": "Podpisy: Náklady na dobrovolníky a koordinaci",
-        "ostatni": "Ostatní: Nezařaditelné nebo neidentifikované výdaje",
-        "fotovideo": "Foto-video: Fotografie, tvorba videí a grafiky"
-    },
-    {
         "kandidat": "petr-pavel",
         "typ": "produkce",
-        "castka": 2293599
+        "castka": 2326589
     },
     {
         "kandidat": "petr-pavel",
@@ -27,12 +17,12 @@
     {
         "kandidat": "petr-pavel",
         "typ": "soc",
-        "castka": 1762551
+        "castka": 1859351
     },
     {
         "kandidat": "petr-pavel",
         "typ": "pr",
-        "castka": 4882761
+        "castka": 4884556
     },
     {
         "kandidat": "petr-pavel",
@@ -42,42 +32,42 @@
     {
         "kandidat": "petr-pavel",
         "typ": "ostatni",
-        "castka": 712559
+        "castka": 722559
     },
     {
         "kandidat": "petr-pavel",
         "typ": "fotovideo",
-        "castka": 1022630
+        "castka": 1083630
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "produkce",
-        "castka": 1750623
+        "castka": 1987638
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "billboardy",
-        "castka": 91723
+        "castka": 597261
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "administrativa",
-        "castka": 417093
+        "castka": 488438
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "soc",
-        "castka": 800061
+        "castka": 871661
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "pr",
-        "castka": 784994
+        "castka": 918094
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "podpisy",
-        "castka": 533880
+        "castka": 1735583
     },
     {
         "kandidat": "danuse-nerudova",
@@ -87,7 +77,7 @@
     {
         "kandidat": "danuse-nerudova",
         "typ": "fotovideo",
-        "castka": 181860
+        "castka": 571300
     },
     {
         "kandidat": "marek-hilser",
@@ -187,7 +177,7 @@
     {
         "kandidat": "pavel-fischer",
         "typ": "soc",
-        "castka": 999.76
+        "castka": 5129.76
     },
     {
         "kandidat": "pavel-fischer",
@@ -202,7 +192,7 @@
     {
         "kandidat": "pavel-fischer",
         "typ": "ostatni",
-        "castka": 162728
+        "castka": 243284
     },
     {
         "kandidat": "pavel-fischer",
@@ -262,7 +252,7 @@
     {
         "kandidat": "tomas-zima",
         "typ": "administrativa",
-        "castka": 0
+        "castka": 6050
     },
     {
         "kandidat": "tomas-zima",
@@ -297,7 +287,7 @@
     {
         "kandidat": "jaroslav-basta",
         "typ": "billboardy",
-        "castka": 3723589
+        "castka": 7100724
     },
     {
         "kandidat": "jaroslav-basta",
