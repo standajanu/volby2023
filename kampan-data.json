@@ -12,12 +12,12 @@
     {
         "kandidat": "petr-pavel",
         "typ": "produkce",
-        "castka": 2512921
+        "castka": 2521345
     },
     {
         "kandidat": "petr-pavel",
         "typ": "billboardy",
-        "castka": 8237883
+        "castka": 8301832
     },
     {
         "kandidat": "petr-pavel",
@@ -27,7 +27,7 @@
     {
         "kandidat": "petr-pavel",
         "typ": "soc",
-        "castka": 2185727
+        "castka": 2234127
     },
     {
         "kandidat": "petr-pavel",
@@ -47,17 +47,17 @@
     {
         "kandidat": "petr-pavel",
         "typ": "fotovideo",
-        "castka": 1223330
+        "castka": 1231330
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "produkce",
-        "castka": 2299323
+        "castka": 2521367
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "billboardy",
-        "castka": 2528929
+        "castka": 2548965
     },
     {
         "kandidat": "danuse-nerudova",
@@ -67,17 +67,17 @@
     {
         "kandidat": "danuse-nerudova",
         "typ": "soc",
-        "castka": 995061
+        "castka": 1140261
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "pr",
-        "castka": 1065204
+        "castka": 1155204
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "podpisy",
-        "castka": 2014745
+        "castka": 2025875
     },
     {
         "kandidat": "danuse-nerudova",
@@ -87,7 +87,7 @@
     {
         "kandidat": "danuse-nerudova",
         "typ": "fotovideo",
-        "castka": 575529
+        "castka": 597562
     },
     {
         "kandidat": "marek-hilser",
@@ -107,7 +107,7 @@
     {
         "kandidat": "marek-hilser",
         "typ": "soc",
-        "castka": 176700
+        "castka": 179700
     },
     {
         "kandidat": "marek-hilser",
@@ -172,12 +172,12 @@
     {
         "kandidat": "pavel-fischer",
         "typ": "produkce",
-        "castka": 62451
+        "castka": 65407
     },
     {
         "kandidat": "pavel-fischer",
         "typ": "billboardy",
-        "castka": 42632
+        "castka": 223419
     },
     {
         "kandidat": "pavel-fischer",
@@ -187,7 +187,7 @@
     {
         "kandidat": "pavel-fischer",
         "typ": "soc",
-        "castka": 9979.76
+        "castka": 12448.76
     },
     {
         "kandidat": "pavel-fischer",
@@ -282,7 +282,7 @@
     {
         "kandidat": "tomas-zima",
         "typ": "ostatni",
-        "castka": 293439
+        "castka": 343439
     },
     {
         "kandidat": "tomas-zima",
@@ -297,7 +297,7 @@
     {
         "kandidat": "jaroslav-basta",
         "typ": "billboardy",
-        "castka": 7100724
+        "castka": 8973038
     },
     {
         "kandidat": "jaroslav-basta",
@@ -312,7 +312,7 @@
     {
         "kandidat": "jaroslav-basta",
         "typ": "pr",
-        "castka": 26305
+        "castka": 36305
     },
     {
         "kandidat": "jaroslav-basta",
@@ -328,5 +328,45 @@
         "kandidat": "jaroslav-basta",
         "typ": "fotovideo",
         "castka": 44421
+    },
+    {
+        "kandidat": "andrej-babis",
+        "typ": "produkce",
+        "castka": 138569
+    },
+    {
+        "kandidat": "andrej-babis",
+        "typ": "billboardy",
+        "castka": 728845
+    },
+    {
+        "kandidat": "andrej-babis",
+        "typ": "administrativa",
+        "castka": 0
+    },
+    {
+        "kandidat": "andrej-babis",
+        "typ": "soc",
+        "castka": 0
+    },
+    {
+        "kandidat": "andrej-babis",
+        "typ": "pr",
+        "castka": 0
+    },
+    {
+        "kandidat": "andrej-babis",
+        "typ": "podpisy",
+        "castka": 0
+    },
+    {
+        "kandidat": "andrej-babis",
+        "typ": "ostatni",
+        "castka": 0
+    },
+    {
+        "kandidat": "andrej-babis",
+        "typ": "fotovideo",
+        "castka": 18200
     }
 ]
