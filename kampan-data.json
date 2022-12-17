@@ -1,23 +1,13 @@
 [
      {
-         "produkce": "Produkce: Jízdné, logistika, catering, provoz…",
-         "billboardy": "Billboardy: Bannery, letáky, polepy, merch",
-         "administrativa": "Administrativa: Administrativní provoz",
-         "soc": "Sociální sítě: Poplatky za reklamy i správa",
-         "pr": "PR: Web, mailing, webová reklama",
-         "podpisy": "Podpisy: Náklady na dobrovolníky a koordinaci",
-         "ostatni": "Ostatní: Nezařaditelné nebo neidentifikované výdaje",
-         "fotovideo": "Foto-video: Fotografie, tvorba videí a grafiky"
-     },
-    {
         "kandidat": "petr-pavel",
         "typ": "produkce",
-        "castka": 2694305
+        "castka": 2787555
     },
     {
         "kandidat": "petr-pavel",
         "typ": "billboardy",
-        "castka": 8322406
+        "castka": 9560074
     },
     {
         "kandidat": "petr-pavel",
@@ -27,7 +17,7 @@
     {
         "kandidat": "petr-pavel",
         "typ": "soc",
-        "castka": 2504331
+        "castka": 2625117
     },
     {
         "kandidat": "petr-pavel",
@@ -47,47 +37,47 @@
     {
         "kandidat": "petr-pavel",
         "typ": "fotovideo",
-        "castka": 1470030
+        "castka": 1820030
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "produkce",
-        "castka": 2838669
+        "castka": 3409870
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "billboardy",
-        "castka": 3564319
+        "castka": 4330384
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "administrativa",
-        "castka": 522188
+        "castka": 653927
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "soc",
-        "castka": 1444940
+        "castka": 1653340
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "pr",
-        "castka": 1852396
+        "castka": 2186087
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "podpisy",
-        "castka": 2057795
+        "castka": 2062175
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "ostatni",
-        "castka": 104078
+        "castka": 125735
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "fotovideo",
-        "castka": 628312
+        "castka": 1364355
     },
     {
         "kandidat": "marek-hilser",
@@ -107,7 +97,7 @@
     {
         "kandidat": "marek-hilser",
         "typ": "soc",
-        "castka": 224805
+        "castka": 230805
     },
     {
         "kandidat": "marek-hilser",
@@ -147,7 +137,7 @@
     {
         "kandidat": "josef-stredula",
         "typ": "soc",
-        "castka": 235783
+        "castka": 538283
     },
     {
         "kandidat": "josef-stredula",
@@ -172,12 +162,12 @@
     {
         "kandidat": "pavel-fischer",
         "typ": "produkce",
-        "castka": 102134
+        "castka": 154677
     },
     {
         "kandidat": "pavel-fischer",
         "typ": "billboardy",
-        "castka": 435954
+        "castka": 881073
     },
     {
         "kandidat": "pavel-fischer",
@@ -202,12 +192,12 @@
     {
         "kandidat": "pavel-fischer",
         "typ": "ostatni",
-        "castka": 260949
+        "castka": 274533
     },
     {
         "kandidat": "pavel-fischer",
         "typ": "fotovideo",
-        "castka": 86038
+        "castka": 110640
     },
     {
         "kandidat": "karel-divis",
@@ -232,7 +222,7 @@
     {
         "kandidat": "karel-divis",
         "typ": "pr",
-        "castka": 3652911
+        "castka": 4790362
     },
     {
         "kandidat": "karel-divis",
@@ -297,7 +287,7 @@
     {
         "kandidat": "jaroslav-basta",
         "typ": "billboardy",
-        "castka": 8973038
+        "castka": 11762035
     },
     {
         "kandidat": "jaroslav-basta",
@@ -312,7 +302,7 @@
     {
         "kandidat": "jaroslav-basta",
         "typ": "pr",
-        "castka": 169619
+        "castka": 383654
     },
     {
         "kandidat": "jaroslav-basta",
@@ -322,22 +312,22 @@
     {
         "kandidat": "jaroslav-basta",
         "typ": "ostatni",
-        "castka": 0
+        "castka": 3993
     },
     {
         "kandidat": "jaroslav-basta",
         "typ": "fotovideo",
-        "castka": 194421
+        "castka": 573344
     },
     {
         "kandidat": "andrej-babis",
         "typ": "produkce",
-        "castka": 222214
+        "castka": 656779
     },
     {
         "kandidat": "andrej-babis",
         "typ": "billboardy",
-        "castka": 728845
+        "castka": 6400901
     },
     {
         "kandidat": "andrej-babis",
@@ -347,12 +337,12 @@
     {
         "kandidat": "andrej-babis",
         "typ": "soc",
-        "castka": 0
+        "castka": 200000
     },
     {
         "kandidat": "andrej-babis",
         "typ": "pr",
-        "castka": 0
+        "castka": 277819
     },
     {
         "kandidat": "andrej-babis",
@@ -367,6 +357,6 @@
     {
         "kandidat": "andrej-babis",
         "typ": "fotovideo",
-        "castka": 18200
+        "castka": 104300
     }
 ]
