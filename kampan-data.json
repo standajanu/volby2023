@@ -12,12 +12,12 @@
      {
         "kandidat": "petr-pavel",
         "typ": "produkce",
-        "castka": 2899223
+        "castka": 2932657
     },
     {
         "kandidat": "petr-pavel",
         "typ": "billboardy",
-        "castka": 12081452
+        "castka": 12168085
     },
     {
         "kandidat": "petr-pavel",
@@ -27,12 +27,12 @@
     {
         "kandidat": "petr-pavel",
         "typ": "soc",
-        "castka": 2963917
+        "castka": 3236947
     },
     {
         "kandidat": "petr-pavel",
         "typ": "pr",
-        "castka": 11530882
+        "castka": 11738492
     },
     {
         "kandidat": "petr-pavel",
@@ -47,32 +47,32 @@
     {
         "kandidat": "petr-pavel",
         "typ": "fotovideo",
-        "castka": 2025438
+        "castka": 2038748
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "produkce",
-        "castka": 3676070
+        "castka": 4547475
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "billboardy",
-        "castka": 5384464
+        "castka": 5510972
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "administrativa",
-        "castka": 653927
+        "castka": 978906
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "soc",
-        "castka": 1800140
+        "castka": 2201570
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "pr",
-        "castka": 2693587
+        "castka": 4896194
     },
     {
         "kandidat": "danuse-nerudova",
@@ -82,12 +82,12 @@
     {
         "kandidat": "danuse-nerudova",
         "typ": "ostatni",
-        "castka": 130735
+        "castka": 132556
     },
     {
         "kandidat": "danuse-nerudova",
         "typ": "fotovideo",
-        "castka": 1382505
+        "castka": 3850314
     },
     {
         "kandidat": "marek-hilser",
@@ -97,7 +97,7 @@
     {
         "kandidat": "marek-hilser",
         "typ": "billboardy",
-        "castka": 156532
+        "castka": 203335
     },
     {
         "kandidat": "marek-hilser",
@@ -107,12 +107,12 @@
     {
         "kandidat": "marek-hilser",
         "typ": "soc",
-        "castka": 282218
+        "castka": 287548
     },
     {
         "kandidat": "marek-hilser",
         "typ": "pr",
-        "castka": 163073
+        "castka": 169120
     },
     {
         "kandidat": "marek-hilser",
@@ -132,12 +132,12 @@
     {
         "kandidat": "josef-stredula",
         "typ": "produkce",
-        "castka": 1083000
+        "castka": 2283000
     },
     {
         "kandidat": "josef-stredula",
         "typ": "billboardy",
-        "castka": 556331
+        "castka": 1496331
     },
     {
         "kandidat": "josef-stredula",
@@ -152,7 +152,7 @@
     {
         "kandidat": "josef-stredula",
         "typ": "pr",
-        "castka": 1413000
+        "castka": 1564155
     },
     {
         "kandidat": "josef-stredula",
@@ -162,22 +162,22 @@
     {
         "kandidat": "josef-stredula",
         "typ": "ostatni",
-        "castka": 2658000
+        "castka": 2828000
     },
     {
         "kandidat": "josef-stredula",
         "typ": "fotovideo",
-        "castka": 0
+        "castka": 520000
     },
     {
         "kandidat": "pavel-fischer",
         "typ": "produkce",
-        "castka": 199012
+        "castka": 336048
     },
     {
         "kandidat": "pavel-fischer",
         "typ": "billboardy",
-        "castka": 1499569
+        "castka": 1708095
     },
     {
         "kandidat": "pavel-fischer",
@@ -192,7 +192,7 @@
     {
         "kandidat": "pavel-fischer",
         "typ": "pr",
-        "castka": 635874
+        "castka": 1070584
     },
     {
         "kandidat": "pavel-fischer",
@@ -202,7 +202,7 @@
     {
         "kandidat": "pavel-fischer",
         "typ": "ostatni",
-        "castka": 284533
+        "castka": 322406
     },
     {
         "kandidat": "pavel-fischer",
@@ -232,7 +232,7 @@
     {
         "kandidat": "karel-divis",
         "typ": "pr",
-        "castka": 4790362
+        "castka": 4859332
     },
     {
         "kandidat": "karel-divis",
@@ -282,7 +282,7 @@
     {
         "kandidat": "tomas-zima",
         "typ": "ostatni",
-        "castka": 1083439
+        "castka": 1283439
     },
     {
         "kandidat": "tomas-zima",
@@ -292,12 +292,12 @@
     {
         "kandidat": "jaroslav-basta",
         "typ": "produkce",
-        "castka": 6205
+        "castka": 86445
     },
     {
         "kandidat": "jaroslav-basta",
         "typ": "billboardy",
-        "castka": 11774235
+        "castka": 12221359
     },
     {
         "kandidat": "jaroslav-basta",
@@ -312,7 +312,7 @@
     {
         "kandidat": "jaroslav-basta",
         "typ": "pr",
-        "castka": 383654
+        "castka": 395754
     },
     {
         "kandidat": "jaroslav-basta",
@@ -332,7 +332,7 @@
     {
         "kandidat": "andrej-babis",
         "typ": "produkce",
-        "castka": 927364
+        "castka": 1006513
     },
     {
         "kandidat": "andrej-babis",
@@ -352,7 +352,7 @@
     {
         "kandidat": "andrej-babis",
         "typ": "pr",
-        "castka": 1052249
+        "castka": 1239418
     },
     {
         "kandidat": "andrej-babis",
@@ -362,11 +362,11 @@
     {
         "kandidat": "andrej-babis",
         "typ": "ostatni",
-        "castka": 335636
+        "castka": 950236
     },
     {
         "kandidat": "andrej-babis",
         "typ": "fotovideo",
-        "castka": 104300
+        "castka": 1047180
     }
 ]
